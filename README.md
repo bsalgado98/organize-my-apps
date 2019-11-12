@@ -1,4 +1,4 @@
-# organize-my-apps
+# Organize My Apps!
 A tool to keep track of your employment applications! Part of Organize My Suite!
 
 ## About this project
@@ -9,11 +9,11 @@ my list of companies ranges from 20 to up to 30 applications.
 
 #### that's kind of a lot, Bruno
 
-Ya, ok lol
+*Ya, ok lol* <br/>
 But my only alternative was to use Microsoft Excel or Google Sheets, both of which are excellent general purpose tools, but
 lack features that are specific to my use case.
 
-Enter Organize My Apps!, a software product designed for anyone looking for a job (every human being over the age of 16, but
+Enter Organize My Apps!, a software product designed for anyone looking for a job (i.e. every human being over the age of 16, but
 especially college students).
 
 ## Technical prerequisites
