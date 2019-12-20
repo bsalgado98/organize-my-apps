@@ -1,0 +1,78 @@
+.Entry {
+    display: flex;
+    transition: 0.1s;
+    width: 100%;
+}
+.Cell {
+    border: 2px solid grey;
+    width: 23%;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    transition: 0.1s;
+    word-break: break-all;
+}
+.Cell:hover {
+    width: 26%;
+}
+.Left {
+    border-radius: 20px 0 0 20px;
+}
+.Right {
+    border-radius: 0 20px 20px 0;
+}
+.HeaderCell {
+    border: 2px solid grey;
+    flex-grow: 1;
+    width: 23%;
+    padding: 5px;
+    color: black;
+    font-size: 2vw;
+}
+#PENDING {
+    background-color: lightyellow;
+    transition: 0.5s;
+}
+#REJECTED {
+    background-color: lightpink;
+    transition: 0.5s;
+}
+#OFFER {
+    background-color: lightgreen;
+    transition: 0.5s;
+}
+#CODING-CHALLENGE {
+    background-color: plum;
+    font-weight: bold;
+    transition: 0.5s;
+}
+#ONLINE-ASSESSMENT {
+    background-color: orange;
+    font-weight: bold;
+    transition: 0.5s;
+}
+#INTERVIEW {
+    background-color: lightblue;
+    font-weight: bold;
+    transition: 0.5s;
+}
+#delete-button {
+    width: 1rem;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
+#delete-button-icon {
+    width: 900%;
+    filter: invert();
+    transition: 0.1s;
+}
+#delete-button-icon:hover{
+    width: 1000%;
+}
+#header {
+    display: flex;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: tan;
+    width: 99%;
+}
