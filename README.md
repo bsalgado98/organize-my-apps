@@ -30,21 +30,9 @@ Before attempting to install this project on your machine, ensure you have the f
 4. ???
 5. Profit
 
-## Cool stuff about this project
-Although it did not start out this way, this project has turned into an experiment into the world of *Product Management (PM).*
-A *PM* is someone who is responsible for the vision and end to end planning of a product or feature (not necessarily
-software based). PMs will conduct user market research, seek appropriate key performance indicators (KPIs, i.e. success metrics),
-and generally see that the product in question is successful.
+## Motivation
 
 This project was originally developed not just for me, but for the Stevens Institute of Technology Society of Hispanic
 Professional Engineers (SHPE) chapter. I knew that many of the chapter members (including myself) would be attending the
 annual SHPE National Convention in 2019 and so I wanted to create a neat platform to ease the process of keeping track of all
 the applications going out to all these different companies.
-
-## Future plans
-Organize My Apps! is meant to be my entry into a new suite of apps packaged as Organize My Suite! Some of these apps would be:
-* Organize My Apps!
-* Organize My Shopping!
-* Organize My Books!
-* etc . . . <br/><br/>
-These apps, starting with Organize My Apps! would be developed first in React web, but would also later be ported to React native in order to reach the wider mobile audience. Organize My Suite! would best be characterized as a suite of tools to organize your life: from employment applications, to shopping lists, to all those books you've been meaning to read; Organize My has you covered.
